@@ -1,6 +1,6 @@
 # Rajesh Kumar - Portfolio Overview
 
-Welcome to my portfolio! I am **Rajesh Kumar**, a passionate web developer with nearly **2 years of development experience** specializing in frontend technologies. This document highlights my technical expertise, work experience, and notable projects.
+Welcome to my portfolio! I am **Rajesh Kumar**, a passionate web developer with **2 years of development experience** specializing in frontend technologies. This document highlights my technical expertise, work experience, and notable projects.
 
 ## About Me
 I am a web developer dedicated to creating **responsive, scalable, and user-friendly web applications**. My passion lies in building seamless digital experiences using modern frontend technologies.
